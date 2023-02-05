@@ -1,0 +1,91 @@
+15:08:23,538 DEBUG devpinoyLogger:36 - Loading the config property file
+15:08:23,606 DEBUG devpinoyLogger:40 - Loading the object property file
+15:08:23,606 DEBUG devpinoyLogger:42 - Launching Browser.
+15:08:38,447 DEBUG devpinoyLogger:76 - opening test site
+15:08:45,736 DEBUG devpinoyLogger:18 - Executing Google Page Launching Test
+15:08:45,757 DEBUG devpinoyLogger:27 - Navigated to correct Web page.
+15:08:45,907 DEBUG devpinoyLogger:49 - SignIn button is not visible or clickable.
+15:08:46,260 DEBUG devpinoyLogger:59 - Search bar is visible and clickable.
+15:09:06,419 DEBUG devpinoyLogger:75 - GoogleSeachButton is not visible or clickable.
+15:09:26,436 DEBUG devpinoyLogger:89 - FeelingLuckyButton is not visible or clickable.
+15:09:56,175 DEBUG devpinoyLogger:26 - ExploreAllProducts button is visible and clickable.
+15:09:56,923 DEBUG devpinoyLogger:40 - AndroidOS is visible and clickable.
+15:09:57,014 DEBUG devpinoyLogger:55 - AndroidTV is visible and clickable.
+15:09:57,146 DEBUG devpinoyLogger:69 - Calendar is visible and clickable.
+15:09:57,230 DEBUG devpinoyLogger:83 - Cardboard is visible and clickable.
+15:09:57,306 DEBUG devpinoyLogger:97 - Chrome is visible and clickable.
+15:09:57,392 DEBUG devpinoyLogger:111 - ChromeWebStore is visible and clickable.
+15:09:57,475 DEBUG devpinoyLogger:125 - Chromebook is visible and clickable.
+15:09:57,554 DEBUG devpinoyLogger:139 - Chromecast is visible and clickable.
+15:09:57,678 DEBUG devpinoyLogger:153 - ConnectedHome is visible and clickable.
+15:09:57,928 DEBUG devpinoyLogger:167 - Contacts is visible and clickable.
+15:09:58,006 DEBUG devpinoyLogger:181 - DigitalWellbeing is visible and clickable.
+15:09:58,077 DEBUG devpinoyLogger:195 - Docs is visible and clickable.
+15:09:58,161 DEBUG devpinoyLogger:209 - Drive is visible and clickable.
+15:09:58,254 DEBUG devpinoyLogger:223 - Earth is visible and clickable.
+15:09:58,328 DEBUG devpinoyLogger:237 - Finance is visible and clickable.
+15:09:58,528 DEBUG devpinoyLogger:253 - Forms is visible and clickable.
+15:09:58,632 DEBUG devpinoyLogger:267 - Gboard is visible and clickable.
+15:09:58,728 DEBUG devpinoyLogger:281 - Gmail is visible and clickable.
+15:09:58,809 DEBUG devpinoyLogger:295 - GoogleAlerts is visible and clickable.
+15:09:58,893 DEBUG devpinoyLogger:309 - GoogleArts&Culture is visible and clickable.
+15:09:58,979 DEBUG devpinoyLogger:323 - GoogleAssistant is visible and clickable.
+15:09:59,051 DEBUG devpinoyLogger:337 - GoogleAuthenticator is visible and clickable.
+15:09:59,128 DEBUG devpinoyLogger:351 - GoogleChat is visible and clickable.
+15:09:59,276 DEBUG devpinoyLogger:365 - GoogleCassroom is visible and clickable.
+15:09:59,347 DEBUG devpinoyLogger:379 - GoogleDuo is visible and clickable.
+15:09:59,420 DEBUG devpinoyLogger:393 - GoogleExpenditions is visible and clickable.
+15:09:59,498 DEBUG devpinoyLogger:407 - GoogleFamilyLink is visible and clickable.
+15:09:59,573 DEBUG devpinoyLogger:421 - GoogleFi is visible and clickable.
+15:09:59,653 DEBUG devpinoyLogger:435 - GoogleFiles is visible and clickable.
+15:09:59,831 DEBUG devpinoyLogger:449 - GoogleFindMyDevice is visible and clickable.
+15:09:59,925 DEBUG devpinoyLogger:463 - GoogleFit is visible and clickable.
+15:10:00,011 DEBUG devpinoyLogger:477 - GoogleFlights is visible and clickable.
+15:10:00,135 DEBUG devpinoyLogger:491 - GoogleFonts is visible and clickable.
+15:10:00,250 DEBUG devpinoyLogger:505 - GoogleGroups is visible and clickable.
+15:10:00,323 DEBUG devpinoyLogger:519 - GoogleHomeApp is visible and clickable.
+15:10:00,431 DEBUG devpinoyLogger:533 - GoogleInputTools is visible and clickable.
+15:10:00,549 DEBUG devpinoyLogger:547 - GoogLens is visible and clickable.
+15:10:00,641 DEBUG devpinoyLogger:561 - GoogleMeet is visible and clickable.
+15:10:00,731 DEBUG devpinoyLogger:574 - GoogleOne is visible and clickable.
+15:10:00,866 DEBUG devpinoyLogger:589 - GooglePlay is visible and clickable.
+15:10:00,949 DEBUG devpinoyLogger:603 - GooglePhotos is visible and clickable.
+15:10:01,005 DEBUG devpinoyLogger:617 - GooglePlay is visible and clickable.
+15:10:01,083 DEBUG devpinoyLogger:631 - GooglePlayBooks is visible and clickable.
+15:10:01,240 DEBUG devpinoyLogger:645 - GooglePlayGames is visible and clickable.
+15:10:01,311 DEBUG devpinoyLogger:659 - GooglePlayMoviesandTV is visible and clickable.
+15:10:01,388 DEBUG devpinoyLogger:673 - GooglePlayPass is visible and clickable.
+15:10:01,485 DEBUG devpinoyLogger:687 - GooglePlayProtect is visible and clickable.
+15:10:01,566 DEBUG devpinoyLogger:701 - GooglePodcasts is visible and clickable.
+15:10:01,653 DEBUG devpinoyLogger:715 - GoogleShopping is visible and clickable.
+15:10:01,722 DEBUG devpinoyLogger:729 - GoogleStreetView is visible and clickable.
+15:10:01,813 DEBUG devpinoyLogger:743 - GoogleTasks is visible and clickable.
+15:10:01,919 DEBUG devpinoyLogger:757 - Hangouts is visible and clickable.
+15:10:01,989 DEBUG devpinoyLogger:771 - Keep is visible and clickable.
+15:10:02,072 DEBUG devpinoyLogger:785 - Maps is visible and clickable.
+15:10:02,153 DEBUG devpinoyLogger:799 - Measure is visible and clickable.
+15:10:02,256 DEBUG devpinoyLogger:813 - Messages is visible and clickable.
+15:10:02,336 DEBUG devpinoyLogger:827 - News is visible and clickable.
+15:10:02,409 DEBUG devpinoyLogger:841 - PhotoScan is visible and clickable.
+15:10:02,481 DEBUG devpinoyLogger:855 - Pixel is visible and clickable.
+15:10:02,643 DEBUG devpinoyLogger:870 - PixelBuds is visible and clickable.
+15:10:02,709 DEBUG devpinoyLogger:884 - Pixelbook is visible and clickable.
+15:10:02,808 DEBUG devpinoyLogger:898 - Scholar is visible and clickable.
+15:10:02,894 DEBUG devpinoyLogger:912 - Search is visible and clickable.
+15:10:02,964 DEBUG devpinoyLogger:926 - Sheets is visible and clickable.
+15:10:03,038 DEBUG devpinoyLogger:940 - Sites is visible and clickable.
+15:10:03,131 DEBUG devpinoyLogger:954 - Slides is visible and clickable.
+15:10:03,261 DEBUG devpinoyLogger:967 - Snapseed is visible and clickable.
+15:10:03,329 DEBUG devpinoyLogger:981 - Stadia is visible and clickable.
+15:10:03,452 DEBUG devpinoyLogger:995 - TiltBrush is visible and clickable.
+15:10:03,648 DEBUG devpinoyLogger:1009 - Translate is visible and clickable.
+15:10:03,714 DEBUG devpinoyLogger:1023 - TrustedContacts is visible and clickable.
+15:10:03,802 DEBUG devpinoyLogger:1037 - Voice is visible and clickable.
+15:10:03,893 DEBUG devpinoyLogger:1051 - Waze is visible and clickable.
+15:10:04,036 DEBUG devpinoyLogger:1065 - WearOSbyGoogle is visible and clickable.
+15:10:04,200 DEBUG devpinoyLogger:1079 - YouTube is visible and clickable.
+15:10:04,303 DEBUG devpinoyLogger:1093 - YouTubeKids is visible and clickable.
+15:10:04,415 DEBUG devpinoyLogger:1107 - YouTubeMusic is visible and clickable.
+15:10:04,526 DEBUG devpinoyLogger:1121 - YouTubeTV is visible and clickable.
+15:10:04,650 DEBUG devpinoyLogger:1135 - YouTubeVR is visible and clickable.
+15:10:07,679 DEBUG devpinoyLogger:90 - Closing browser.

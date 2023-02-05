@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [dd_test]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="validateGoogleSearchOperation(failed)">
+    <classes>
+      <class name="dd_tests.validateGoogleSearchOperation">
+        <methods>
+          <include name="QuitDriver"/>
+          <include name="init"/>
+          <include name="GoogleSearchOperation"/>
+        </methods>
+      </class> <!-- dd_tests.validateGoogleSearchOperation -->
+    </classes>
+  </test> <!-- validateGoogleSearchOperation(failed) -->
+</suite> <!-- Failed suite [dd_test] -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-05T15:08:45 IST" name="dd_test" finished-at="2021-02-05T15:10:04 IST" duration-ms="79006">
+    <groups>
+    </groups>
+    <test started-at="2021-02-05T15:08:45 IST" name="verifyGooglePage" finished-at="2021-02-05T15:09:26 IST" duration-ms="40859">
+      <class name="dd_tests.verifyGooglePage">
+        <test-method signature="verifyGooglePageLaunching()[pri:1, instance:dd_tests.verifyGooglePage@687e99d8]" started-at="2021-02-05T15:08:45 IST" name="verifyGooglePageLaunching" finished-at="2021-02-05T15:09:26 IST" duration-ms="40727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageLaunching -->
+      </class> <!-- dd_tests.verifyGooglePage -->
+    </test> <!-- verifyGooglePage -->
+    <test started-at="2021-02-05T15:09:26 IST" name="verifyGoogleProducts" finished-at="2021-02-05T15:10:04 IST" duration-ms="38044">
+      <class name="dd_tests.verifyGoogleProducts">
+        <test-method is-config="true" signature="init()[pri:0, instance:dd_tests.verifyGoogleProducts@2118cddf]" started-at="2021-02-05T15:08:23 IST" name="init" finished-at="2021-02-05T15:08:45 IST" duration-ms="22156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="GoogleProductsVerification()[pri:0, instance:dd_tests.verifyGoogleProducts@2118cddf]" started-at="2021-02-05T15:09:26 IST" name="GoogleProductsVerification" finished-at="2021-02-05T15:10:04 IST" duration-ms="38040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleProductsVerification -->
+        <test-method is-config="true" signature="QuitDriver()[pri:0, instance:dd_tests.verifyGoogleProducts@2118cddf]" started-at="2021-02-05T15:10:04 IST" name="QuitDriver" finished-at="2021-02-05T15:10:08 IST" duration-ms="4240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitDriver -->
+      </class> <!-- dd_tests.verifyGoogleProducts -->
+    </test> <!-- verifyGoogleProducts -->
+  </suite> <!-- dd_test -->
+</testng-results>

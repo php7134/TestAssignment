@@ -1,0 +1,14 @@
+12/01/2021 00:26:36 devpinoyLogger Loading the config property file
+12/01/2021 00:26:36 devpinoyLogger Loading the object property file
+12/01/2021 00:26:36 devpinoyLogger Launching Browser.
+12/01/2021 00:27:05 devpinoyLogger opening test site
+12/01/2021 00:27:18 devpinoyLogger Executing Google Page Launching Test
+12/01/2021 00:27:18 devpinoyLogger Naviagted to correct Web page.
+12/01/2021 00:27:19 devpinoyLogger SignIn button is visible and clickable.
+12/01/2021 00:27:19 devpinoyLogger SignIn button is displayed and enabled.
+12/01/2021 00:27:20 devpinoyLogger Search bar is visible and clickable.
+12/01/2021 00:27:20 devpinoyLogger Search bar is displayed and enabled.
+12/01/2021 00:27:20 devpinoyLogger GoogleSeachButton is visible and clickable.
+12/01/2021 00:27:20 devpinoyLogger GoogleSeachButton is displayed and enabled.
+12/01/2021 00:27:21 devpinoyLogger FeelingLuckyButton is visible and clickable.
+12/01/2021 00:27:21 devpinoyLogger FeelingLuckyButton is displayed and enabled.

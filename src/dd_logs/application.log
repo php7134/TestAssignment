@@ -1,0 +1,91 @@
+05/02/2021 15:08:23 devpinoyLogger Loading the config property file
+05/02/2021 15:08:23 devpinoyLogger Loading the object property file
+05/02/2021 15:08:23 devpinoyLogger Launching Browser.
+05/02/2021 15:08:38 devpinoyLogger opening test site
+05/02/2021 15:08:45 devpinoyLogger Executing Google Page Launching Test
+05/02/2021 15:08:45 devpinoyLogger Navigated to correct Web page.
+05/02/2021 15:08:45 devpinoyLogger SignIn button is not visible or clickable.
+05/02/2021 15:08:46 devpinoyLogger Search bar is visible and clickable.
+05/02/2021 15:09:06 devpinoyLogger GoogleSeachButton is not visible or clickable.
+05/02/2021 15:09:26 devpinoyLogger FeelingLuckyButton is not visible or clickable.
+05/02/2021 15:09:56 devpinoyLogger ExploreAllProducts button is visible and clickable.
+05/02/2021 15:09:56 devpinoyLogger AndroidOS is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger AndroidTV is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger Calendar is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger Cardboard is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger Chrome is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger ChromeWebStore is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger Chromebook is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger Chromecast is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger ConnectedHome is visible and clickable.
+05/02/2021 15:09:57 devpinoyLogger Contacts is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger DigitalWellbeing is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Docs is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Drive is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Earth is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Finance is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Forms is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Gboard is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger Gmail is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger GoogleAlerts is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger GoogleArts&Culture is visible and clickable.
+05/02/2021 15:09:58 devpinoyLogger GoogleAssistant is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleAuthenticator is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleChat is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleCassroom is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleDuo is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleExpenditions is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleFamilyLink is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleFi is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleFiles is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleFindMyDevice is visible and clickable.
+05/02/2021 15:09:59 devpinoyLogger GoogleFit is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleFlights is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleFonts is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleGroups is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleHomeApp is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleInputTools is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogLens is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleMeet is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GoogleOne is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GooglePlay is visible and clickable.
+05/02/2021 15:10:00 devpinoyLogger GooglePhotos is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePlay is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePlayBooks is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePlayGames is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePlayMoviesandTV is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePlayPass is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePlayProtect is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GooglePodcasts is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GoogleShopping is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GoogleStreetView is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger GoogleTasks is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger Hangouts is visible and clickable.
+05/02/2021 15:10:01 devpinoyLogger Keep is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Maps is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Measure is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Messages is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger News is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger PhotoScan is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Pixel is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger PixelBuds is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Pixelbook is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Scholar is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Search is visible and clickable.
+05/02/2021 15:10:02 devpinoyLogger Sheets is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Sites is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Slides is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Snapseed is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Stadia is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger TiltBrush is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Translate is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger TrustedContacts is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Voice is visible and clickable.
+05/02/2021 15:10:03 devpinoyLogger Waze is visible and clickable.
+05/02/2021 15:10:04 devpinoyLogger WearOSbyGoogle is visible and clickable.
+05/02/2021 15:10:04 devpinoyLogger YouTube is visible and clickable.
+05/02/2021 15:10:04 devpinoyLogger YouTubeKids is visible and clickable.
+05/02/2021 15:10:04 devpinoyLogger YouTubeMusic is visible and clickable.
+05/02/2021 15:10:04 devpinoyLogger YouTubeTV is visible and clickable.
+05/02/2021 15:10:04 devpinoyLogger YouTubeVR is visible and clickable.
+05/02/2021 15:10:07 devpinoyLogger Closing browser.

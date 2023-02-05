@@ -1,0 +1,110 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="dd_test">
+
+<test name="verifyGooglePage">
+    <classes>
+        <class name="dd_tests.verifyGooglePage"></class>  
+    </classes>
+</test>
+<!--  
+ 
+<test name="verifyAllGoogleApps">
+    <classes>
+        <class name="dd_tests.verifyAllGoogleApps"></class>  
+    </classes>
+</test>
+<test name="verifyMyAccount">
+    <classes>
+        <class name="dd_tests.verifyMyAccount"></class>  
+    </classes>
+</test>
+<test name="verifyGSearch">
+    <classes>
+        <class name="dd_tests.verifyGSearch"></class>  
+    </classes>
+</test>
+<test name="verifyMaps">
+    <classes>
+        <class name="dd_tests.verifyMaps"></class>  
+    </classes>
+</test>
+<test name="verifyYoutube">
+    <classes>
+        <class name="dd_tests.verifyYoutube"></class>  
+    </classes>
+</test>
+<test name="verifyPlay">
+    <classes>
+        <class name="dd_tests.verifyPlay"></class>  
+    </classes>
+</test>
+<test name="verifyNews">
+    <classes>
+        <class name="dd_tests.verifyNews"></class>  
+    </classes>
+</test>
+<test name="verifyGmail">
+    <classes>
+        <class name="dd_tests.verifyGmail"></class>  
+    </classes>
+</test>
+<test name="verifyMeet">
+    <classes>
+        <class name="dd_tests.verifyMeet"></class>  
+    </classes>
+</test>
+
+<test name="verifyDrive">
+    <classes>
+        <class name="dd_tests.verifyDrive"></class>  
+    </classes>
+</test>
+
+<test name="verifyTranslate">
+    <classes>
+        <class name="dd_tests.verifyTranslate"></class>  
+    </classes>
+</test>
+
+<test name="verifyPhotos">
+    <classes>
+        <class name="dd_tests.verifyPhotos"></class>  
+    </classes>
+</test>
+
+<test name="verifyLanguageLinksGooglePage">     
+    <classes>
+        <class name="dd_tests.verifyLanguageLinksGooglePage"></class>  
+    </classes>
+</test>
+
+<test name="validateGoogleSearchOperation">     
+    <classes>
+        <class name="dd_tests.validateGoogleSearchOperation"></class>  
+    </classes>
+</test>
+-->
+<test name="verifyGoogleProducts">     
+    <classes>
+        <class name="dd_tests.verifyGoogleProducts"></class>  
+    </classes>
+</test>
+
+
+
+<!--  
+<test name="LoginTest">
+    <classes>
+        <class name="dd_tests.LoginTest"></class>  
+    </classes>
+</test>
+
+<test name="VerifySiginToMyAccount">
+    <classes>
+        <class name="dd_tests.VerifySiginToMyAccount"></class>  
+    </classes>
+</test>
+-->
+
+
+</suite>
