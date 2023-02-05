@@ -14,13 +14,14 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
+import dd_util.ExcelReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestCore
 {
 	public static Properties config = new Properties();
 	public static Properties object = new Properties();
-	//public static ExcelReader excel = null;
+    public static ExcelReader excel = null;
 	public static WebDriver driver = null;
 	public static FileInputStream fis;
 	public static Logger app_logs = Logger.getLogger("devpinoyLogger");
